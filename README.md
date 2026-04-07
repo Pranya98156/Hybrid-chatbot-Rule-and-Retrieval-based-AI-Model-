@@ -1,6 +1,6 @@
 # 🤖 Hybrid Chatbot for Academic & Administrative Use
- 
-  Project Overview
+
+## 📌 Project Overview
 
 This project implements a **Hybrid Chatbot** that combines:
 
@@ -15,7 +15,7 @@ It is designed to assist users with:
 * Exams
 * General university queries
 
-
+---
 
 ## 🧠 Methodology
 
